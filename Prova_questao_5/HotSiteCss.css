@@ -1,0 +1,72 @@
+.banner{
+    width: 1900px; 
+    height: 357px; 
+    background-color: black;
+    background-image: url(2.png) ; 
+    margin-top: -35px;
+    position: relative;
+    right: 250px;
+}
+body{
+    font-size: 16px;
+    font-family: "Roboto Condensed", sans-serif;
+    background-color:#2bff0098; 
+    margin: 0;
+    text-align: justify;
+}
+main h1{
+    font-size: 50px;
+    background-color: #c4ffb379;
+    color: #0c9600;
+    text-align: center;
+    font-family: "Ants Valley - Personal Use", serif;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    margin-top: -330px;
+}
+main p{
+    margin: 10px;
+    padding: 20px;
+}
+h2{
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    font-family: "Ants Valley - Personal Use", serif;
+    text-align: left;
+    clear: both;
+}
+p{
+    text-align: justify;
+}
+blockquote {
+    background-color:  #f2e0a5;
+    padding: 1px;
+    border: 1px solid #b58a00;
+    width: 216px;
+    margin: 20px 40px;
+    box-sizing: border-box;
+}
+.fiat{
+    float: right;
+}
+.petrobras{
+    float: left;
+}
+blockquote  h2{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: "Roboto Condensed", sans-serif;
+    text-align: left;
+    clear: both;
+}
+h3{
+    margin: 10px;
+    padding: 20px;
+    font-size: 50px;
+    font-family: "Ants Valley - Personal Use", serif;
+    text-align: center;
+    clear: both;
+}
+
